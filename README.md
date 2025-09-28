@@ -18,6 +18,12 @@
 **Points clés :** Développement rapide, Intégration web, Test technique
 <img width="1306" height="726" alt="image" src="https://github.com/user-attachments/assets/ef7e8fd9-5ea0-483e-a02b-faad405176a5" />
 ***
+### [💼 Portfolio CDI](https://github.com/YoussefELKALLOUBI/portfolio-cdi)
+**Stack :** HTML, CSS, JavaScript  
+**Description :** Site portfolio professionnel conçu dans le cadre de ma recherche de CDI  
+**Points clés :** Design web, Portfolio, Présentation professionnelle
+<img width="1320" height="654" alt="image" src="https://github.com/user-attachments/assets/bba0d67f-6725-495c-b344-58682bf401b9" />
+***
 ### [🐍 Django Improvements Test](https://github.com/YoussefELKALLOUBI/django-improvements-test)
 **Stack :** Python, Django  
 **Description :** Améliorations d'une application Django existante dans le cadre d'un test technique réalisé en 4 heures  
@@ -40,11 +46,4 @@
 **Stack :** C#, WinForms  
 **Description :** Application Windows d'intégration web développée en C# avec interface WinForms  
 **Points clés :** .NET Framework, Applications desktop, C#
-***
-### [💼 Portfolio CDI](https://github.com/YoussefELKALLOUBI/portfolio-cdi)
-**Stack :** HTML, CSS, JavaScript  
-**Description :** Site portfolio professionnel conçu dans le cadre de ma recherche de CDI  
-**Points clés :** Design web, Portfolio, Présentation professionnelle
-
-<img width="1320" height="654" alt="image" src="https://github.com/user-attachments/assets/bba0d67f-6725-495c-b344-58682bf401b9" />
 
