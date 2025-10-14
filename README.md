@@ -14,10 +14,27 @@
 ***
 ### [AnnuairePrismaSoft](https://github.com/YoussefELKALLOUBI/AnnuairePrismaSoft)  
 Stack : C#, Windows Forms, DevExpress, SQL Server Express
-Description : Application de gestion de contacts et sociétés développée en une journée dans le cadre d'un test technique pour le projet Prismasoft, avec interface en français, recherche avancée, regroupement automatique par société et base de données relationnelle
+Description : Application de gestion de contacts et sociétés développée en une journée dans le cadre d'un test technique
 Points clés : Développement rapide, Application desktop, C#, Test technique
 
 ![gif prismasoft](https://github.com/user-attachments/assets/517c4e41-c8ea-438b-a41a-ffd7a7f9c6a1)
+***
+🎥 Phileas Technologie - Éditeur Logiciel de Vidéosurveillance
+Période : 12mois
+Poste : Développeur Logiciel & mobile
+Stack : C#, C++, .NET, Android, etc
+
+Réalisations :
+🔧 Développement de nouvelles évolutions fonctionnelles
+🐛 Résolution de bugs et maintenance corrective
+📱 Travail sur l'application mobile compagnon
+📚 Rédaction et mise à jour de la documentation technique
+📸 Captures d'écran :
+<img width="2589" height="1424" alt="Videosurveillance" src="https://github.com/user-attachments/assets/8e43858f-0364-457b-ba8f-0b2db3095693" />
+<img width="1208" height="1425" alt="doc" src="https://github.com/user-attachments/assets/cd8b9d5c-918f-4748-9351-23b2754915f9" />
+<img width="851" height="685" alt="doc3" src="https://github.com/user-attachments/assets/9a74a1a8-390c-4135-93e0-ad0f7b4a84c7" />
+<img width="1280" height="1071" alt="doc2" src="https://github.com/user-attachments/assets/75b02c30-d772-4d4d-9fa9-b71389e344dc" />
+<img width="2340" height="1080" alt="mobile videosurveillance" src="https://github.com/user-attachments/assets/ae3f6792-b861-4666-a9f4-4b61dd5869ec" />
 ***
 ### [🔮 Django Tarot Test](https://github.com/YoussefELKALLOUBI/django-tarot-test)
 **Stack :** HTML, CSS, JavaScript  
