@@ -19,17 +19,18 @@ Points clés : Développement rapide, Application desktop, C#, Test technique
 
 ![gif prismasoft](https://github.com/user-attachments/assets/517c4e41-c8ea-438b-a41a-ffd7a7f9c6a1)
 ***
-🎥 Phileas Technologie - Éditeur Logiciel de Vidéosurveillance
-Période : 12mois
-Poste : Développeur Logiciel & mobile
-Stack : C#, C++, .NET, Android, etc
+### 🎥 Phileas Technologie - Éditeur Logiciel de Vidéosurveillance
+**Période :** 12 mois  
+**Poste :** Développeur Logiciel & Mobile  
+**Stack :** C#, C++, .NET, Android
 
-Réalisations :
-🔧 Développement de nouvelles évolutions fonctionnelles
-🐛 Résolution de bugs et maintenance corrective
-📱 Travail sur l'application mobile compagnon
-📚 Rédaction et mise à jour de la documentation technique
-📸 Captures d'écran :
+**Réalisations :**
+- 🔧 Développement de nouvelles évolutions fonctionnelles
+- 🐛 Résolution de bugs et maintenance corrective
+- 📱 Travail sur l'application mobile compagnon
+- 📚 Rédaction et mise à jour de la documentation technique
+
+**📸 Captures d'écran :**
 
 <img width="400" height="1424" alt="Videosurveillance" src="https://github.com/user-attachments/assets/8e43858f-0364-457b-ba8f-0b2db3095693" />
 <img width="400" height="1425" alt="doc" src="https://github.com/user-attachments/assets/cd8b9d5c-918f-4748-9351-23b2754915f9" />
