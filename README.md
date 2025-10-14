@@ -46,8 +46,8 @@ Points clés : Développement rapide, Application desktop, C#, Test technique
 <img width="743" height="442" alt="image" src="https://github.com/user-attachments/assets/f8662da0-7655-427e-9e2e-776ce572e33f" />
 
 ***
-### ⭐ Gestion Avis Restaurants - Client Lourd
-**[resto-avis](https://github.com/YoussefELKALLOUBI/resto-avis)**
+### 
+### [👥 ⭐ Gestion Avis Restaurants - Client Lourd](https://github.com/YoussefELKALLOUBI/resto-avis)
 
 **Stack :** JavaFX • MVC • Desktop
 
