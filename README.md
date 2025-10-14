@@ -16,6 +16,7 @@
 Stack : C#, Windows Forms, DevExpress, SQL Server Express
 Description : Application de gestion de contacts et sociétés développée en une journée dans le cadre d'un test technique pour le projet Prismasoft, avec interface en français, recherche avancée, regroupement automatique par société et base de données relationnelle
 Points clés : Développement rapide, Application desktop, C#, Test technique
+
 ![gif prismasoft](https://github.com/user-attachments/assets/517c4e41-c8ea-438b-a41a-ffd7a7f9c6a1)
 ***
 ### [🔮 Django Tarot Test](https://github.com/YoussefELKALLOUBI/django-tarot-test)
