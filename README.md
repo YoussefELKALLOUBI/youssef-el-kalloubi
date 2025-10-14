@@ -12,7 +12,7 @@
 **Points clés :** JavaScript avancé, Édition graphique, Interface interactive
 <img width="1910" height="848" alt="image" src="https://github.com/user-attachments/assets/581d7517-0e12-40c8-b7ed-dfca1cceb41b" />
 ***
-📇 Annuaire PrismaSoft
+### [AnnuairePrismaSoft](https://github.com/YoussefELKALLOUBI/AnnuairePrismaSoft)  
 Stack : C#, Windows Forms, DevExpress, SQL Server Express
 Description : Application de gestion de contacts et sociétés développée en une journée dans le cadre d'un test technique pour le projet Prismasoft, avec interface en français, recherche avancée, regroupement automatique par société et base de données relationnelle
 Points clés : Développement rapide, Application desktop, C#, Test technique
