@@ -45,6 +45,14 @@ Points clés : Développement rapide, Application desktop, C#, Test technique
 **Points clés :** JavaFX, CRUD, Architecture MVC
 <img width="743" height="442" alt="image" src="https://github.com/user-attachments/assets/f8662da0-7655-427e-9e2e-776ce572e33f" />
 ***
+### ⭐ Gestion Avis Restaurants - Client Lourd
+**[resto-avis](https://github.com/YoussefELKALLOUBI/resto-avis)**
+
+**Stack :** Java • MVC • Desktop
+
+**Application desktop** pour gérer les avis clients sur les restaurants.
+<img width="581" height="384" alt="image" src="https://github.com/user-attachments/assets/4f0e443e-ec25-4621-892c-f610a5673acc" />
+***
 ### [🔮 Django Tarot Test](https://github.com/YoussefELKALLOUBI/django-tarot-test)
 **Stack :** HTML, CSS, JavaScript  
 **Description :** Mini-site de présentation du réseau TAROT réalisé en 6 heures pour un test technique d'entretien  
