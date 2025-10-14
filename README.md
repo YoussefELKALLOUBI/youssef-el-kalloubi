@@ -12,6 +12,12 @@
 **Points clés :** JavaScript avancé, Édition graphique, Interface interactive
 <img width="1910" height="848" alt="image" src="https://github.com/user-attachments/assets/581d7517-0e12-40c8-b7ed-dfca1cceb41b" />
 ***
+📇 Annuaire PrismaSoft
+Stack : C#, Windows Forms, DevExpress, SQL Server Express
+Description : Application de gestion de contacts et sociétés développée en une journée dans le cadre d'un test technique pour le projet Prismasoft, avec interface en français, recherche avancée, regroupement automatique par société et base de données relationnelle
+Points clés : Développement rapide, Application desktop, C#, Test technique
+![gif prismasoft](https://github.com/user-attachments/assets/517c4e41-c8ea-438b-a41a-ffd7a7f9c6a1)
+***
 ### [🔮 Django Tarot Test](https://github.com/YoussefELKALLOUBI/django-tarot-test)
 **Stack :** HTML, CSS, JavaScript  
 **Description :** Mini-site de présentation du réseau TAROT réalisé en 6 heures pour un test technique d'entretien  
