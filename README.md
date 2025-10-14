@@ -30,11 +30,12 @@ Réalisations :
 📱 Travail sur l'application mobile compagnon
 📚 Rédaction et mise à jour de la documentation technique
 📸 Captures d'écran :
-<img width="800" height="1424" alt="Videosurveillance" src="https://github.com/user-attachments/assets/8e43858f-0364-457b-ba8f-0b2db3095693" />
-<img width="800" height="1425" alt="doc" src="https://github.com/user-attachments/assets/cd8b9d5c-918f-4748-9351-23b2754915f9" />
-<img width="800" height="685" alt="doc3" src="https://github.com/user-attachments/assets/9a74a1a8-390c-4135-93e0-ad0f7b4a84c7" />
-<img width="800" height="1071" alt="doc2" src="https://github.com/user-attachments/assets/75b02c30-d772-4d4d-9fa9-b71389e344dc" />
-<img width="800" height="1080" alt="mobile videosurveillance" src="https://github.com/user-attachments/assets/ae3f6792-b861-4666-a9f4-4b61dd5869ec" />
+
+<img width="400" height="1424" alt="Videosurveillance" src="https://github.com/user-attachments/assets/8e43858f-0364-457b-ba8f-0b2db3095693" />
+<img width="400" height="1425" alt="doc" src="https://github.com/user-attachments/assets/cd8b9d5c-918f-4748-9351-23b2754915f9" />
+<img width="400" height="685" alt="doc3" src="https://github.com/user-attachments/assets/9a74a1a8-390c-4135-93e0-ad0f7b4a84c7" />
+<img width="400" height="1071" alt="doc2" src="https://github.com/user-attachments/assets/75b02c30-d772-4d4d-9fa9-b71389e344dc" />
+<img width="400" height="1080" alt="mobile videosurveillance" src="https://github.com/user-attachments/assets/ae3f6792-b861-4666-a9f4-4b61dd5869ec" />
 ***
 ### [🔮 Django Tarot Test](https://github.com/YoussefELKALLOUBI/django-tarot-test)
 **Stack :** HTML, CSS, JavaScript  
