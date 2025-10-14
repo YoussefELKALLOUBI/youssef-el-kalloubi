@@ -39,6 +39,12 @@ Points clés : Développement rapide, Application desktop, C#, Test technique
 <img width="400" height="1080" alt="mobile videosurveillance" src="https://github.com/user-attachments/assets/ae3f6792-b861-4666-a9f4-4b61dd5869ec" />
 
 ***
+### [👥 Gestion des Salariés](https://github.com/YoussefELKALLOUBI/gestion-salariers)
+**Stack :** Java, JavaFX, MVC, Base de données  
+**Description :** Interface desktop MVC pour gestion complète des salariés avec opérations CRUD et interface graphique intuitive  
+**Points clés :** JavaFX, CRUD, Architecture MVC
+<img width="743" height="442" alt="image" src="https://github.com/user-attachments/assets/f8662da0-7655-427e-9e2e-776ce572e33f" />
+***
 ### [🔮 Django Tarot Test](https://github.com/YoussefELKALLOUBI/django-tarot-test)
 **Stack :** HTML, CSS, JavaScript  
 **Description :** Mini-site de présentation du réseau TAROT réalisé en 6 heures pour un test technique d'entretien  
@@ -62,12 +68,6 @@ Points clés : Développement rapide, Application desktop, C#, Test technique
 **Description :** Application web orientée objet pour la gestion des restaurants et types de cuisine, avec architecture MVC robuste  
 **Points clés :** Programmation orientée objet, Architecture web, PHP
 <img width="661" height="418" alt="image" src="https://github.com/user-attachments/assets/2ae3c100-5623-4d00-a778-dd1c4dac740d" />
-***
-### [👥 Gestion des Salariés](https://github.com/YoussefELKALLOUBI/gestion-salariers)
-**Stack :** Java, JavaFX, MVC, Base de données  
-**Description :** Interface desktop MVC pour gestion complète des salariés avec opérations CRUD et interface graphique intuitive  
-**Points clés :** JavaFX, CRUD, Architecture MVC
-<img width="743" height="442" alt="image" src="https://github.com/user-attachments/assets/f8662da0-7655-427e-9e2e-776ce572e33f" />
 ***
 ### [🌐 WebIntegrationApp](https://github.com/YoussefELKALLOUBI/WebIntegrationApp)
 **Stack :** C#, WinForms  
