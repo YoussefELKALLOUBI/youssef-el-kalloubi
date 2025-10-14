@@ -48,9 +48,10 @@ Points clés : Développement rapide, Application desktop, C#, Test technique
 ### ⭐ Gestion Avis Restaurants - Client Lourd
 **[resto-avis](https://github.com/YoussefELKALLOUBI/resto-avis)**
 
-**Stack :** Java • MVC • Desktop
+**Stack :** JavaFX • MVC • Desktop
 
 **Application desktop** pour gérer les avis clients sur les restaurants.
+
 <img width="581" height="384" alt="image" src="https://github.com/user-attachments/assets/4f0e443e-ec25-4621-892c-f610a5673acc" />
 ***
 ### [🔮 Django Tarot Test](https://github.com/YoussefELKALLOUBI/django-tarot-test)
